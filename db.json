@@ -1,60 +1,19 @@
 {
-  "posts": [
+  "bird_sightings": [
     {
       "id": "0",
-      "title": "Post 0",
-      "body": "Body 0",
-      "categoryId": "1",
-      "authorId": "0"
-    },
-    {
-      "id": "1",
-      "title": "Post 1",
-      "body": "Body 1",
-      "categoryId": "0",
-      "authorId": "0"
+      "birdType": "White-Crowned Sparrow",
+      "location": "Folsom, CA",
+      "date": "12/1/2021",
+      "information": "Near a bird feeder",
+      "spottedBy": "0"
     }
   ],
-  "categories": [
+  "saved_birds": [
     {
       "id": "0",
-      "name": "Tech"
-    },
-    {
-      "id": "1",
-      "name": "Financial Independence"
-    },
-    {
-      "id": "2",
-      "name": "Retirement"
-    }
-  ],
-  "comments": [
-    {
-      "id": "0",
-      "body": "Comment 0",
-      "postId": "0"
-    },
-    {
-      "id": "1",
-      "body": "Comment 1",
-      "postId": "1"
-    },
-    {
-      "id": "2",
-      "body": "Comment 2",
-      "postId": "1"
-    },
-    {
-      "id": "3",
-      "body": "Comment 3",
-      "postId": "0"
-    }
-  ],
-  "authors": [
-    {
-      "id": "0",
-      "name": "David Tang"
+      "birdId": "0",
+      "userId": "0"
     }
   ]
 }
