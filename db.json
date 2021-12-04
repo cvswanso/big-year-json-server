@@ -9,11 +9,13 @@
       "spottedBy": "0"
     }
   ],
-  "saved_birds": [
+  "comments": [
     {
       "id": "0",
-      "birdId": "0",
-      "userId": "0"
+      "birdSightingId": "0",
+      "name": "0",
+      "body": "0",
+      "timeStamp": "0"
     }
   ]
 }
